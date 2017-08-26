@@ -1,5 +1,12 @@
-# pixel-art-lab
+# Cross-Stitch-Pattern-Maker
 
-My grandma loves cross stitch. For years, she’s drawn her patterns on graph paper, but lately, her arthritis has been troubling her and it’s getting more and more difficult to draw out her designs by hand. Let’s make her a digital cross stitch maker, so she can continue designing her amazing cross stitch patterns for many years to come.
+This web app allows a user to dynamically set the size of their cross stitch canvas and design cross stitch patterns in the browser.
 
-Full lab instructions can be found here: https://docs.google.com/document/d/1KGV5od9fj3Od58RdcJwF4h_AT4Tg8a-6w22O8u_rIaM/edit# 
+###### See the Project Here: [Live Version](https://sagarchoudhary96.github.io/Cross-Stitch-Pattern-Maker/index.html)
+
+## How to Run: 
+1. [Download](https://github.com/sagarchoudhary96/Cross-Stitch-Pattern-Maker/archive/master.zip) or [Clone](https://github.com/sagarchoudhary96/Cross-Stitch-Pattern-Maker.git) the Repository.
+2. Open `index.html` file to view the project in your browser.
+## Browser Support: 
+
+To complete this lab, you will need the color input type, which is not supported in IE. Check [this website](http://caniuse.com/#feat=input-color) to see if the browser you're using supports the color input type.
